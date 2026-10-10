@@ -1,0 +1,3 @@
+Validate all user inputs.
+Use queries to prevent SQL injection.
+Store passwords using secure hashing algorithms.
